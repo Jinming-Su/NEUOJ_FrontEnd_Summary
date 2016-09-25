@@ -32,4 +32,8 @@ Make a summary for neuoj frontend skill
 * JQuery -> Easy to program
 * Bootstrap -> Elegant to show
 * Blade -> Convenient to operate
-  
+ 
+### Recommended Frontend Code styling
+* [html](http://www.cnblogs.com/whitewolf/p/4491707.html#comment_tip)
+* [js](http://www.cnblogs.com/whitewolf/p/4491447.html)
+* [color and dialog](https://www.almsaeedstudio.com/themes/AdminLTE/pages/UI/general.html)
